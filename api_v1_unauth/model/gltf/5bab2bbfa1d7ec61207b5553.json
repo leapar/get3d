@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "result": {
+        "fromRebuid": false,
+        "version": "v3",
+        "reader": "public",
+        "cutstatus": null,
+        "name": "\u5782\u5f27\u7eb9\u94dc\u9f0e",
+        "owner": false,
+        "insdt": "2018-09-26 14:48",
+        "gltf": "\/models\/2018-09\/15bab2b88241c90.16219038\/chwtd.gltf?OSSAccessKeyId=LTAIULvBNLAGG5ed&Expires=1539334308&Signature=fbZJUr4YjkO6S%2F%2BCub4Alqa8Am8%3D",
+        "path": "\/models\/2018-09\/15bab2b88241c90.16219038\/",
+        "size": {
+            "fast": 6315783,
+            "quality": 10939808
+        },
+        "config": "{\"lights\":[{\"metadata\":{\"version\":4.5,\"type\":\"Object\",\"generator\":\"Object3D.toJSON\"},\"object\":{\"uuid\":\"49CBCCBC-3DE6-4293-86E5-E2B6A5EF86B2\",\"type\":\"AmbientLight\",\"layers\":1,\"matrix\":[1,0,0,0,0,1,0,0,0,0,1,0,0,5,5,1],\"color\":16777215,\"intensity\":1}}],\"grpMtix\":{\"elements\":[0.9980887707008287,0.05996693156488822,-0.014925579372362816,0,0.06172559579929822,-0.9789938365687976,0.19432194622205978,0,-0.002959159362107426,-0.19487184270437702,-0.9808242494437376,0,0,0,0,1]},\"grpTips\":[],\"cameraMtix\":{\"elements\":[0.012417043162267438,-2.7755575615628914e-17,0.9999229055477759,0,0.28443454186824413,0.9586889566502973,-0.0035321082891714706,0,-0.958615047050331,0.2844564718841257,0.011904082153915918,0,-9.829579621199038,2.148903309860462,0.10354511052232045,1]},\"ctrlTgt\":{\"x\":-0.19197333181219173,\"y\":-0.7109302499431368,\"z\":-0.0161346894025516},\"bgImg\":\"asset\/viewer-bkg\/bg06.jpg\",\"roughness\":1,\"envmap\":\"\",\"envmapShow\":false,\"distRate\":0,\"distLine\":[],\"distUnit\":\"mm\"}",
+        "thbnl": "models\/2018-09\/15bab2b88241c90.16219038\/tbnl.jpg?v=5bab2c4f6ae71"
+    }
+}
